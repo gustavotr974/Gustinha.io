@@ -1,5 +1,5 @@
 body {
- background-color: gray;
+ background-color: black;
  color: black;
  font-family: verdana;
  width: 100%;
@@ -19,7 +19,7 @@ body {
 }
 
 .btn-1{
-            color: black;
+            color: white;
             background-color: red;
             border-radius: 10px;
             border-bottom: 10px;
@@ -27,7 +27,7 @@ body {
 }
 
 .btn-2{
-            color: black;
+            color: white;
             background-color: red;
             border-radius: 10px;
             border-bottom: 10px;
@@ -35,7 +35,7 @@ body {
 }
 
 .btn-3{
-            color: black;
+            color: white;
             background-color: red;
             border-radius: 10px;
             border-bottom: 10px;
